@@ -20,7 +20,6 @@
             label="メッセージ内容"
             :rules="rulesForMessage"
             auto-grow
-            autofocus
             filled
             class="mb-10"
           ></v-textarea>
